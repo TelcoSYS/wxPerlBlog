@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+perl -I/home/cgc/Documents/wxPerlBlog/xrc /home/cgc/Documents/wxPerlBlog/xrc/wxPerlBlog.pl
+
+
+
