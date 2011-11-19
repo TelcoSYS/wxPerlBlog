@@ -48,12 +48,11 @@ sub __set_properties {
 
 # begin wxGlade: MainFrame::__set_properties
 
-	$self->SetTitle("frame_1");
-	$self->{grid_1}->CreateGrid(10, 2);
+	$self->SetTitle("wxPerlBlog");
+	$self->{grid_1}->CreateGrid(10, 1);
 	$self->{grid_1}->EnableDragRowSize(0);
 	$self->{grid_1}->SetSelectionMode(wxGridSelectRows);
-	$self->{grid_1}->SetColLabelValue(0, "ID");
-	$self->{grid_1}->SetColLabelValue(1, "Categoria");
+	$self->{grid_1}->SetColLabelValue(0, "Categoria");
 
 # end wxGlade
 }

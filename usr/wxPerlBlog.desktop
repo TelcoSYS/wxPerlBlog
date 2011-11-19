@@ -3,8 +3,8 @@
 Name=wxPerlBlog
 Comment=TP Perl Lenguajes de Scripting 
 Exec=/home/cgc/Documents/wxPerlBlog/bin/pb-start
+Icon=/home/cgc/Documents/wxPerlBlog/usr/icon.png
 Terminal=false
 Type=Application
-Icon=empathy
 Categories=GTK;Database;Development;Application;
 X-Desktop-File-Install-Version=0.18
